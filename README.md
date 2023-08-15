@@ -17,7 +17,7 @@ A Personal Portfolio Website built using HTML, CSS, Javascript
 ✔️ Contact Me\
 ✔️ Footer
 
-To view a live example, **[click here](https://thepranaygupta.github.io/)**
+To view a live example, **[click here](https://Mayshank18.github.io/)**
 
 ## Tools Used 🛠️
 
